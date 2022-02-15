@@ -1,14 +1,14 @@
 {
-    "name": "Julie-Mwol",
-    "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "name": "BS boy",
+    "description": "BS boy is the Modified Version of WhatsAsena, Made By @janith madumal with Baileys.",
     "logo": "https://i.imgur.com/ADXSU8e.jpeg",
-    "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/farhan-dqz/Julie-Mwol",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "keywords": ["whatsapp", "userbot", "BS boy", "WhatsAsena", "mwol", "bot", "ai"],
+    "repository": "https://github.com/Madumal1122/BS-boy",
+    "website":   "https://github.com/Madumal1122/BS-boy",
+    "success_url": "https://github.com/Madumal1122/BS-boy",
     "stack": "container",
     "env": {
-        "JULIE_SESSION": {
+        "BS_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
@@ -123,10 +123,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏JulieMWol⤎╾━━━•"
+            "value": "•━━━━╼⤏BS boy⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "JulieMwol Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "BS boy Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -156,12 +156,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "*Downloading your song*"
+            "value": "*😈 Downloading your song*"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "*Feel the song*"
+            "value": "*🌐 uploading the song*"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
