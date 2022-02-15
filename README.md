@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/farhan-dqz">janith madumal</a> to make it public
     <br>
        | © |
         Reserved |
@@ -41,10 +41,10 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd Julie-Mwol
+$ git clone https://github.com/Madumal1122/BS-boy
+$ cd BS boy
 $ npm i
-$ node julie.js
+$ node BS boy.js
 ```
 
 ----
