@@ -36,7 +36,7 @@ module.exports = {
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     STICKERP: process.env.AUTO_STICKER === undefined ? true : convertToBool(process.env.AUTO_STICKER),
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
-    BOT: process.env.BOT_NAME === undefined ? '⊢‒‒‒ ⋈ ᴊᴜʟɪᴇᴍᴡᴏʟ ⋈ ‒‒‒⊣' : process.env.BOT_NAME,
+    BOT: process.env.BOT_NAME === undefined ? 'BS boy' : process.env.BOT_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'true' : process.env.NO_LOG,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD,
@@ -70,10 +70,7 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    BOTCREATOR: "farhandqz",
-    SUPPORT: "905524317852-1612300121",
-    SUPPORT2: "917012074386-1631435717",
-    SUPPORT3: "919072790587-1635775355",
-    SUPPORT4: "905511384572-1625319286"
+    BOTCREATOR: "janith madumal",
+    
 };
 
