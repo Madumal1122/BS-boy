@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="BS boy" src=""></a>
 </p>
@@ -66,10 +66,12 @@ $ node BS boy.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BeIBO4DF1TjC3E3HMpEpD2)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janith-dqz&repo=BS-boy&theme=nightowl)](https://github.com/madumal1122-BS-boy)
+    
+    z/J)
   </div>
     
 ### ⚠️ Warning! 
